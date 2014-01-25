@@ -1,0 +1,7 @@
+[library]
+name = pinguino-lib_template
+author = pinguino
+arch = 8bit, 32bit
+repository = git@github.com:PinguinoIDE/pinguino-lib_template.git
+description = A example library for Pinguino Library Manager.
+url = https://github.com/PinguinoIDE/pinguino-lib_template/wiki

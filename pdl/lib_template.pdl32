@@ -1,0 +1,2 @@
+blinkLED blinkled_32#include <lib_template32.c>
+
